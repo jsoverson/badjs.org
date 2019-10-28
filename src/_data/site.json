@@ -1,0 +1,13 @@
+{
+  "showThemeCredit": true,
+  "name": "BadJS.org",
+  "shortDesc": "BadJS.org is a repository of malicious JavaScript found in the wild.",
+  "url": "https://badjs.org",
+  "authorEmail": "badjs.org@gmail.com",
+  "authorHandle": "@jsoverson",
+  "authorName": "Jarrod Overson",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 10,
+  "paymentPointer": "$twitter.xrptipbot.com/jsoverson",
+  "faviconPath": "/images/favicon.png"
+}

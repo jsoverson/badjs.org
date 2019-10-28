@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "text": "Home",
+      "url": "/",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/pages/about/",
+      "external": false
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/jsoverson/badjs.org",
+      "external": true
+    },
+    {
+      "text": "@badjs_org",
+      "url": "https://twitter.com/badjs_org",
+      "external": true
+    }
+  ]
+}

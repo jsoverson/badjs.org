@@ -1,0 +1,40 @@
+.heading-permalink {
+  color: var(--color-theme-primary-glare);
+  font-size: 0.8em;
+  margin-left: 0.3em;
+  margin-top: 0.2em;
+
+  @include media-query('md') {
+    font-size: 0.6em;
+    margin-top: 0.4em;
+  }
+}
+
+.subtitle {
+  font-family: monospace;
+  margin-left: 20px;
+  color: grey;
+}
+
+.subtitle::after {
+  animation: blinker 1.2s linear infinite;
+  content:'_';
+  width:1rem;
+  height:1rem;
+  background-color:gray;
+}
+
+@keyframes blinker {
+  100% {
+    opacity:1;
+  }
+  51% {
+    opacity:1;
+  }
+  50% {
+    opacity: 0;
+  }
+  1% {
+    opacity:0;
+  }
+}
