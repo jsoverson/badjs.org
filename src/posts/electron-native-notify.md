@@ -9,7 +9,7 @@ tags:
   - native
 ---
 
-This was a compromised npm package in the same vein as `event-stream` targeting an electron-based bitcoin wallet. The included JavaScript below is just the loader. If you have the JavaScript that was loaded please <a href="mailto:badjs.org@gmail.com">submit it as a sample</a>
+This was a compromised npm package in the same vein as `event-stream` targeting an electron-based bitcoin wallet. The included JavaScript below is just the loader. If you have the JavaScript that was loaded please <a href="/pages/submit">submit it as a sample</a>
 
 - - -
 

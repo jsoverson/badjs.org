@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
+      "text": "About",
+      "url": "/pages/about/",
       "external": false
     },
     {
-      "text": "About",
-      "url": "/pages/about/",
+      "text": "Submit",
+      "url": "/pages/submit",
       "external": false
     },
     {
