@@ -9,5 +9,6 @@
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 10,
   "paymentPointer": "$twitter.xrptipbot.com/jsoverson",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "socialImage": "/images/ogimage-1200x1200.png"
 }
